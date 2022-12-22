@@ -10,9 +10,7 @@
 
 - 🌱 I’m currently learning **Python, Qt, Django**
 
-- 👨‍💻 All of my projects are available at [https://www.artstation.com/humourmortel](https://www.artstation.com/humourmortel)
-
-- 💬 Ask me about **Houdini**
+- 👨‍💻 All of my other projects are available at [https://www.artstation.com/humourmortel](https://www.artstation.com/humourmortel)
 
 - 📫 How to reach me **ldzuira@artfx.fr**
 
