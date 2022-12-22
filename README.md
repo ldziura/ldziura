@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Dziura</h1>
 <h3 align="center">Technical Artist at Gearbox Softwares Quebec - Houdini/Python/Qt/UE5</h3>
+<h3 align="center">Most repositories are private because of NDA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ldzuira&label=Profile%20views&color=0e75b6&style=flat" alt="ldzuira" /> </p>
 
